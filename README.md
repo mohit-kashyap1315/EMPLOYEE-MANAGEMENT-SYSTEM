@@ -28,7 +28,7 @@ To run the Employee Management System on your local machine, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/ShivankK26/Employee-Management-System .
+   git clone https://github.com/mohit-kashyap1315/Employee-Management-System .
    ```
 
 2. Navigate to the project directory:
